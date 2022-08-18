@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello! I'm Troy.
 
-<!--
-**troywiegel/troywiegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-Stack+Web+Developer.++++++++++)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troywiegel&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Troy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=troywiegel&show_icons=true&theme=vue)
+
+## Repos
+
+[![Goals](https://github-readme-stats.vercel.app/api/pin/?username=troywiegel&repo=goals&show_owner=true)](https://github.com/troywiegel/goals)
+
+[![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=troywiegel&repo=work-day-scheduler&show_owner=true)](https://github.com/troywiegel/work-day-scheduler)
