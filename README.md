@@ -8,6 +8,4 @@
 
 ## Repos
 
-[![Goals](https://github-readme-stats.vercel.app/api/pin/?username=troywiegel&repo=goals&show_owner=true)](https://github.com/troywiegel/goals)
-
-[![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=troywiegel&repo=work-day-scheduler&show_owner=true)](https://github.com/troywiegel/work-day-scheduler)
+[![Password Generator](https://github-readme-stats.vercel.app/api/pin/?username=troywiegel&repo=password-generator&show_owner=true)](https://github.com/troywiegel/password-generator)
